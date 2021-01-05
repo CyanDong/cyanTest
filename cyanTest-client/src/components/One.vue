@@ -1,6 +1,7 @@
 <template>
   <div>
       {{msg}}
+      aaaaa
   </div>
 </template>
 
